@@ -51,7 +51,7 @@ Terrestial planets
             Our world
 
     Mars 
-            0.642 
+             Mars 
             6,792 
             3933 
             3.7 
